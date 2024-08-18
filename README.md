@@ -26,7 +26,7 @@ Use the model to predict ratings for new movie data.
 
 
 🚀 Setup & Usage
-Clone the Repo: (https://github.com/Debolina-Chatterjee/Movie-rating_ML.git)
+Clone the Repo: https://github.com/Debolina-Chatterjee/Movie-rating_ML.git
 
 
 📁 Files
